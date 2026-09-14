@@ -1,0 +1,10 @@
+items:
+  - title: "Wichtige Informationen"
+    path: "/"
+    icon: "fa-solid fa-house"
+  - title: "Start- / Ergebnislisten"
+    path: "/ergebnisse"
+    icon: "fa-solid fa-circle-info"
+  - title: "Über Uns"
+    path: "/about"
+    icon: "fa-solid fa-circle-info"

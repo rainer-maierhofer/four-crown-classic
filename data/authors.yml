@@ -1,0 +1,8 @@
+fourcrown:
+  name: "Four Crown Classic"
+  job: "Horse Riding & Lifestyle"
+  nickname: "fourcrown"
+  profile: "https://example.com"
+  avatar: "roq-default/default-avatar.svg"
+  bio: |
+    Four Crown Classic is a simple site built with ROQ.
