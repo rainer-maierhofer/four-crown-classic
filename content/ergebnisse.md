@@ -10,14 +10,14 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 
 |  #   | Show | Disziplin                       | Verband |
 |------|------|---------------------------------|---------|
-| 1383 | 1/2  | <a href="/downloads/ergebnisse/mittwoch/aqha12-1383.pdf" target="_blank" rel="noopener noreferrer">Green Trail Open</a> |   AQHA  |
-| 3380 | 1/2  | <a href="/downloads/ergebnisse/mittwoch/aqha12-3380.pdf" target="_blank" rel="noopener noreferrer">Trail Novice Amateur</a> |   AQHA  |
-| 1382 | 1/2  | <a href="/downloads/ergebnisse/mittwoch/aqha12-1382.pdf" target="_blank" rel="noopener noreferrer">Senior Trail Open</a> |   AQHA  |
-| 1434 | 1/2  | <a href="/downloads/ergebnisse/mittwoch/aqha12-1434.pdf" target="_blank" rel="noopener noreferrer">Green Ranch Riding Open</a> |   AQHA  |
-| 3430 | 1/2  | <a href="/downloads/ergebnisse/mittwoch/aqha12-3430.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding N.Amateur</a> |   AQHA  |
+| 1383 | 1/2  | <a href="{page.url.fromRoot('downloads/ergebnisse/mittwoch/aqha12-1383.pdf')}" target="_blank" rel="noopener noreferrer">Green Trail Open</a> |   AQHA  |
+| 3380 | 1/2  | <a href="{page.url.fromRoot('downloads/ergebnisse/mittwoch/aqha12-3380.pdf')}" target="_blank" rel="noopener noreferrer">Trail Novice Amateur</a> |   AQHA  |
+| 1382 | 1/2  | <a href="{page.url.fromRoot('downloads/ergebnisse/mittwoch/aqha12-1382.pdf')}" target="_blank" rel="noopener noreferrer">Senior Trail Open</a> |   AQHA  |
+| 1434 | 1/2  | <a href="{page.url.fromRoot('downloads/ergebnisse/mittwoch/aqha12-1434.pdf')}" target="_blank" rel="noopener noreferrer">Green Ranch Riding Open</a> |   AQHA  |
+| 3430 | 1/2  | <a href="{page.url.fromRoot('downloads/ergebnisse/mittwoch/aqha12-3430.pdf')}" target="_blank" rel="noopener noreferrer">Ranch Riding N.Amateur</a> |   AQHA  |
 | 4430 | 1/2  | Ranch Riding Youth|   AQHA  |
-| 4400 | 1/2  | <a href="/downloads/ergebnisse/mittwoch/aqha12-4400.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Youth</a> |   AQHA  |
-| 3400 | 1/2  | <a href="/downloads/ergebnisse/mittwoch/aqha12-3400.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Novice Amateur</a> |   AQHA  |
+| 4400 | 1/2  | <a href="{page.url.fromRoot('downloads/ergebnisse/mittwoch/aqha12-4400.pdf')}" target="_blank" rel="noopener noreferrer">Horsemanship Youth</a> |   AQHA  |
+| 3400 | 1/2  | <a href="{page.url.fromRoot('downloads/ergebnisse/mittwoch/aqha12-3400.pdf')}" target="_blank" rel="noopener noreferrer">Horsemanship Novice Amateur</a> |   AQHA  |
 | 1443 | 1/2  | Green Hunter Open               |   AQHA  |
 | 3440 | 1/2  | Hunter Under Saddle N.Amateur   |   AQHA  |
 | 1442 | 1/2  | Senior Hunter Under Saddle Open |   AQHA  |

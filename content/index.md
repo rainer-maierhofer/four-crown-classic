@@ -7,7 +7,7 @@ Willkommen auf der Startseite von Four Crown Classic.
 
 ### Wichtige Informationen:
 
-- <a href="/downloads/zeitplan.pdf" target="_blank" rel="noopener noreferrer">aktueller Zeitplan</a>
-- <a href="/downloads/ausschreibung.pdf" target="_blank" rel="noopener noreferrer">Ausschreibung</a>
+- <a href="{page.url.fromRoot('downloads/zeitplan.pdf')}" target="_blank" rel="noopener noreferrer">aktueller Zeitplan</a>
+- <a href="{page.url.fromRoot('downloads/ausschreibung.pdf')}" target="_blank" rel="noopener noreferrer">Ausschreibung</a>
 - Teilnehmeliste folgt
 - noch was
