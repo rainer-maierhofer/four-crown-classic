@@ -30,6 +30,26 @@ body {
   }
 }
 
+.main-nav {
+  width: min(980px, calc(100% - 2rem));
+  margin: 0 auto;
+}
+
+.nav-toggle {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.nav-toggle-label {
+  display: none;
+}
+
 .site-menu,
 .menu {
   width: min(980px, calc(100% - 2rem));
@@ -101,6 +121,92 @@ body {
   box-shadow: none;
   border-radius: 0;
   border-bottom: 2px solid #102a43;
+}
+
+@media (max-width: 767px) {
+  .main-nav {
+    width: min(980px, calc(100% - 1rem));
+  }
+
+  .nav-toggle-label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0.75rem 0;
+    padding: 0.85rem 1rem;
+    border: 1px solid rgba(75, 46, 0, 0.2);
+    border-radius: 0.75rem;
+    background: #f8f3ea;
+    color: #4b2e00;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+  }
+
+  .nav-toggle-label::after {
+    content: "☰";
+    font-size: 1.3rem;
+    line-height: 1;
+  }
+
+  .nav-panel {
+    display: none;
+  }
+
+  .nav-toggle:checked + .nav-toggle-label + .nav-panel {
+    display: block;
+  }
+
+  .nav-panel .site-menu,
+  .nav-panel .menu {
+    width: 100%;
+    margin: 0;
+    padding: 0.5rem 0 0;
+  }
+
+  .menu ul {
+    flex-direction: column;
+    gap: 0.45rem;
+    padding: 0.5rem 0 0.9rem;
+  }
+
+  .menu li {
+    width: 100%;
+  }
+
+  .site-menu a,
+  .menu a {
+    width: 100%;
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.5rem;
+  }
+
+  .site-menu a:not(.active):hover,
+  .site-menu a:not(.active):focus,
+  .menu a:not(.active):hover,
+  .menu a:not(.active):focus {
+    transform: translateX(0.25rem);
+  }
+
+  .menu a.active,
+  .menu a.active:hover,
+  .menu a.active:focus {
+    border-bottom: none;
+    padding: 0.5rem 0.75rem;
+    background: rgba(16, 42, 67, 0.06);
+  }
+
+  .page-content {
+    width: min(980px, calc(100% - 1rem));
+    padding: 0.3rem 0.75rem 0;
+  }
+
+  .page-content table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+  }
 }
 
 .page-content {
