@@ -167,18 +167,6 @@ body {
   vertical-align: middle;
 }
 
-.page-content th:nth-child(1),
-.page-content td:nth-child(1),
-.page-content th:nth-child(2),
-.page-content td:nth-child(2) {
-  width: 10%;
-}
-
-.page-content th:nth-child(4),
-.page-content td:nth-child(4) {
-  width: 12%;
-}
-
 .page-content th {
   color: #1d3557;
   font-weight: 700;
@@ -191,11 +179,16 @@ body {
 
 .page-content th:first-child,
 .page-content td:first-child {
-  text-align: left;
+  width: 22%;
 }
 
 .page-content th:nth-child(3),
 .page-content td:nth-child(3) {
+  width: 20%;
+}
+
+.page-content th:nth-child(2),
+.page-content td:nth-child(2) {
   text-align: left;
 }
 
