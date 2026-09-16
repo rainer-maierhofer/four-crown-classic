@@ -30,9 +30,9 @@ Kleberkamp 2
 ## Richter
 <img src="downloads/judges/linda-long.png" alt="Linda Long" width="25%"><br>
 Linda Long (USA)  <br>
-<img src="downloads/judges/mauro-fungo.png" alt="Mauro Fungo" width="25%"><br>
+<br><img src="downloads/judges/mauro-fungo.png" alt="Mauro Fungo" width="25%"><br>
 Mauro Fungo (I)  <br>
-<img src="downloads/judges/kathryn-kope.png" alt="Kathryn Kope" width="25%"><br>
+<br><img src="downloads/judges/kathryn-kope.png" alt="Kathryn Kope" width="25%"><br>
 Kathryn Kope (USA)  <br>
-<img src="downloads/judges/cedric-leroux.png" alt="Cedric Leroux" width="25%"><br>
+<br><img src="downloads/judges/cedric-leroux.png" alt="Cedric Leroux" width="25%"><br>
 Cedric Leroux (B)
