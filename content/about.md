@@ -28,11 +28,22 @@ Kleberkamp 2
 31195 Lamspringe
 
 ## Richter
-<img src="downloads/judges/linda-long.png" alt="Linda Long" width="25%"><br>
-Linda Long (USA)  <br>
-<br><img src="downloads/judges/mauro-fungo.png" alt="Mauro Fungo" width="25%"><br>
-Mauro Fungo (I)  <br>
-<br><img src="downloads/judges/kathryn-kope.png" alt="Kathryn Kope" width="25%"><br>
-Kathryn Kope (USA)  <br>
-<br><img src="downloads/judges/cedric-leroux.png" alt="Cedric Leroux" width="25%"><br>
-Cedric Leroux (B)
+
+<div class="judges-container">
+  <div class="judge-item">
+    <img src="downloads/judges/linda-long.png" alt="Linda Long">
+    <p>Linda Long (USA)</p>
+  </div>
+  <div class="judge-item">
+    <img src="downloads/judges/mauro-fungo.png" alt="Mauro Fungo">
+    <p>Mauro Fungo (I)</p>
+  </div>
+  <div class="judge-item">
+    <img src="downloads/judges/kathryn-kope.png" alt="Kathryn Kope">
+    <p>Kathryn Kope (USA)</p>
+  </div>
+  <div class="judge-item">
+    <img src="downloads/judges/cedric-leroux.png" alt="Cedric Leroux">
+    <p>Cedric Leroux (B)</p>
+  </div>
+</div>

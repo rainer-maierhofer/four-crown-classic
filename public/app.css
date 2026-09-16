@@ -309,3 +309,51 @@ body {
   color: #102a43;
   text-decoration: underline;
 }
+
+.judges-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 2rem 0;
+}
+
+.judge-item {
+  flex: 0 1 20%;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.judge-item img {
+  width: 80%;
+  height: auto;
+  border-radius: 0.5rem;
+  object-fit: contain;
+  margin: 0 auto;
+  display: block;
+}
+
+.judge-item p {
+  margin: 0;
+  font-weight: 500;
+  color: #374151;
+  line-height: 1.2;
+}
+
+@media (max-width: 1024px) {
+  .judge-item {
+    flex: 0 1 42%;
+  }
+}
+
+@media (max-width: 640px) {
+  .judge-item {
+    flex: 0 1 85%;
+  }
+
+  .judges-container {
+    gap: 0;
+  }
+}
