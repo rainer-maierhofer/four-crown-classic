@@ -1,6 +1,6 @@
 ---
-title: "Four Crown Classic's Home"
-description: "Welcome to Four Crown Classic's Home"
+title: "Four Crown Classic"
+description: "Welcome to Four Crown Classic"
 layout: page
 ---
 Willkommen auf der Startseite von Four Crown Classic.

@@ -1,6 +1,6 @@
 ---
 title: "Über uns"
-description: "Mehr über Four Crown Classic's Home"
+description: "Mehr über Four Crown Classic"
 layout: page
 ---
 
