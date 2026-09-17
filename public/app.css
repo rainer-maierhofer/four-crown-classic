@@ -21,6 +21,7 @@ body {
   height: 150px;
   object-fit: contain;
   background: #ffffff;
+  border-radius: 1rem;
 }
 
 @media (min-width: 1791px) {
@@ -324,6 +325,15 @@ body {
   text-align: center;
   padding: 0;
   margin: 0;
+}
+
+.page-content img[src*="downloads/rainer.png"] {
+  width: 270px;
+  height: auto;
+  border-radius: 0.5rem;
+  object-fit: contain;
+  margin: 0;
+  display: block;
 }
 
 .judge-item img {

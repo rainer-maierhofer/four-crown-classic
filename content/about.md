@@ -20,6 +20,7 @@ Fax: 08741-949656
 E-Mail: RenateGruber@online.de  
 
 ## Showmanager
+<img src="downloads/rainer.png" alt="Rainer Maierhofer" width="150" height="150"><br>
 Rainer Maierhofer, Deutschland
 
 ## Veranstaltungsort
