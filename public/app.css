@@ -92,6 +92,41 @@ body {
   transition: color 0.2s ease, background-color 0.2s ease, text-decoration-color 0.2s ease, transform 0.2s ease;
 }
 
+.site-footer {
+  width: min(980px, calc(100% - 2rem));
+  margin: 0 auto 1rem;
+  padding: 0.5rem 1.5rem 0;
+}
+
+.site-footer::before {
+  content: "";
+  display: block;
+  border-bottom: 1px solid rgba(75, 46, 0, 0.18);
+  margin-bottom: 0.5rem;
+}
+
+.site-footer a {
+  display: inline-flex;
+  align-items: center;
+  color: #4b2e00;
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-decoration: none;
+  letter-spacing: 0.04em;
+  line-height: 1.4;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.site-footer a + a {
+  margin-left: 2rem;
+}
+
+.site-footer a:hover,
+.site-footer a:focus {
+  color: #7a4d00;
+  transform: scale(1.1);
+}
+
 .site-menu a:not(.active):hover,
 .site-menu a:not(.active):focus,
 .menu a:not(.active):hover,
@@ -207,6 +242,11 @@ body {
     display: block;
     width: 100%;
     overflow-x: auto;
+  }
+
+  .site-footer {
+    width: min(980px, calc(100% - 1rem));
+    padding: 0.5rem 1rem 0;
   }
 }
 
