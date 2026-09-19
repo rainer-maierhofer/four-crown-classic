@@ -55,7 +55,6 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 2400 1/2 | Horsemanship Amateur            |   AQHA  |
 | 2408 1/2 | Horsemanship Select Amateur     |   AQHA  |
 | 5006     | Pleasure Non Pro                |   NSBA  |
-| 1389 1/2 | Green Ranch Trail Open          |   AQHA  |
 | 2390 1/2 | Ranch Trail Amateur             |   AQHA  |
 | 1390 1/2 | Ranch Trail Open                |   AQHA  |
 | 1421 1/2 | Junior Pleasure Open            |   AQHA  |
