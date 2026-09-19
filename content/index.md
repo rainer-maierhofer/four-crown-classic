@@ -5,10 +5,18 @@ layout: page
 ---
 Willkommen auf der Startseite von Four Crown Classic.
 
-### Wichtige Informationen:
+## Wichtige Informationen:
 
-- <a href="/four-crown-classic/downloads/zeitplan.pdf" target="_blank" rel="noopener noreferrer">aktueller Zeitplan</a>
-- <a href="/four-crown-classic/downloads/ausschreibung.pdf" target="_blank" rel="noopener noreferrer">Ausschreibung</a>
-- Teilnehmerliste folgt
+- <a href="/four-crown-classic/downloads/2026 Four Crown Classic Ausscheibung.pdf" target="_blank" rel="noopener noreferrer">Ausschreibung</a>
+- <a href="/four-crown-classic/downloads/2026 Lamspringe Zeitplan.pdf" target="_blank" rel="noopener noreferrer">Zeitplan mit Starterzahlen</a>
+- <a href="/four-crown-classic/downloads/2026 Lamspringe Teilnehmerliste.pdf" target="_blank" rel="noopener noreferrer">Teilnehmerliste</a>
 - Boxenplan folgt
 - Patternbook folgt
+
+## Deutscher Meister
+
+Der Titel Internationaler Deutscher Meister wird über die
+World-Show-Platzierungen aus den 4 AQHA-Shows errechnet.
+Der Titel wird in den Halterklassen ab 3 Teilnehmern und in den
+Performance Klassen ab 5 Teilnehmern vergeben.
+Die 3 bzw. 5 Teilnehmer müssen in Show 1/2 gestartet sein.
