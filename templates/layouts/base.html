@@ -11,7 +11,7 @@
     <nav class="main-nav" aria-label="Hauptmenü">
       <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Menü öffnen" />
       <label for="nav-toggle" class="nav-toggle-label" aria-hidden="true">
-        <span>Menü</span>
+        <span class="nav-toggle-label-current" aria-live="polite"></span>
       </label>
 
       <div class="nav-panel">
@@ -25,5 +25,23 @@
       <a href="/four-crown-classic/impressum/">Impressum</a>
       <a href="/four-crown-classic/datenschutz/">Datenschutzerklärung</a>
     </footer>
+
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        var labelCurrent = document.querySelector('.nav-toggle-label-current');
+        if (!labelCurrent) return;
+
+        var activeLink = document.querySelector('.menu a.active, .site-menu a.active');
+        if (!activeLink) {
+          labelCurrent.textContent = '';
+          return;
+        }
+
+        var text = activeLink.textContent.trim();
+        if (text) {
+          labelCurrent.textContent = text;
+        }
+      });
+    </script>
   </body>
 </html>

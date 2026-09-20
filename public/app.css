@@ -41,6 +41,8 @@ body {
   z-index: 20;
   width: min(980px, calc(100% - 2rem));
   margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
   background: rgba(255, 255, 255, 0.96);
   backdrop-filter: blur(2px);
 }
@@ -170,22 +172,23 @@ body {
 
 @media (max-width: 767px) {
   .main-nav {
-    position: fixed;
+    position: sticky;
     top: 150px;
-    left: 50%;
-    transform: translateX(-50%);
     width: min(980px, calc(100% - 1rem));
     z-index: 25;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .main-nav + * {
-    margin-top: 3.5rem;
+    margin-top: 0;
   }
 
   .nav-toggle-label {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
+    gap: 0.75rem;
     width: 100%;
     margin: 0.75rem 0;
     padding: 0.85rem 1rem;
@@ -198,8 +201,19 @@ body {
     cursor: pointer;
   }
 
+  .nav-toggle-label-current {
+    flex: 1 1 auto;
+    text-align: left;
+    font-weight: 600;
+    color: #102a43;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
   .nav-toggle-label::after {
     content: "☰";
+    margin-left: auto;
     font-size: 1.3rem;
     line-height: 1;
   }
@@ -216,7 +230,7 @@ body {
   .nav-panel .menu {
     width: 100%;
     margin: 0;
-    padding: 0.5rem 0 0;
+    padding: 0.5rem 0.5rem 0;
   }
 
   .menu ul {
