@@ -9,7 +9,11 @@ layout: page
 ## Veranstalter
 Reitsportverein Lammetal e.V.  
 An der Pferdewiese 1  
-31195 Lamspringe  
+31195 Lamspringe
+
+## Ansprechpartner
+Anna Voss  
+Tel. 0160 9021 2817  
 
 ## Show Office
 Renate Gruber,  

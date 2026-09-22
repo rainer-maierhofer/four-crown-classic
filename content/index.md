@@ -8,10 +8,11 @@ Willkommen auf der Startseite von Four Crown Classic.
 ## Wichtige Informationen:
 
 - <a href="/four-crown-classic/downloads/2026 Four Crown Classic Ausscheibung.pdf" target="_blank" rel="noopener noreferrer">Ausschreibung</a>
-- <a href="/four-crown-classic/downloads/2026 Lamspringe Zeitplan.pdf" target="_blank" rel="noopener noreferrer">Zeitplan mit Starterzahlen</a>
-- <a href="/four-crown-classic/downloads/2026 Lamspringe Teilnehmerliste.pdf" target="_blank" rel="noopener noreferrer">Teilnehmerliste</a>
-- Boxenplan folgt
-- Patternbook folgt
+- <a href="/four-crown-classic/downloads/2026 Four Crown Zeitplan.pdf" target="_blank" rel="noopener noreferrer">Zeitplan mit Starterzahlen</a>
+- <a href="/four-crown-classic/downloads/2026 Four Crown Teilnehmerliste.pdf" target="_blank" rel="noopener noreferrer">Teilnehmerliste</a>
+- <a href="/four-crown-classic/downloads/2026 Four Crown Boxenplan.pdf" target="_blank" rel="noopener noreferrer">Boxenplan</a>
+- <a href="/four-crown-classic/downloads/2026 Four Crown Patternbook.pdf" target="_blank" rel="noopener noreferrer">Patternbook</a>
+- Trail Pattern folgen
 
 ## Deutscher Meister
 
