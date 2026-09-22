@@ -30,7 +30,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 1363 1/2 | Green Western Riding Open       |   AQHA  |
 | 1347 1/2 | Green Reining Open              |   AQHA  |
 | 3340 1/2 | Reining N.Amateur               |   AQHA  |
-| 1342 1/2 | Senior Reining Open             |   AQHA  |
+| 1340 1/2 | Reining All Ages Open           |   AQHA  |
 
 </details>
 
@@ -97,7 +97,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 1363 3/4 | Green Western Riding Open       |   AQHA  |
 | 1347 3/4 | Green Reining Open              |   AQHA  |
 | 3340 3/4 | Reining N.Amateur               |   AQHA  |
-| 1342 3/4 | Senior Reining Open             |   AQHA  |
+| 1340 3/4 | Reining All Ages Open           |   AQHA  |
 
 </details>
 
