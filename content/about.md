@@ -13,7 +13,7 @@ An der Pferdewiese 1
 
 ## Ansprechpartner
 Anna Voss  
-Tel. 0160 9021 2817  
+Tel. 0151 4196 2216
 
 ## Show Office
 Renate Gruber,  
