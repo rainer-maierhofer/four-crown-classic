@@ -6,6 +6,7 @@ layout: page
 Willkommen auf der Startseite von Four Crown Classic.
 
 #### <a href="/four-crown-classic/downloads/ergebnisse/2026 Lamspringe Zeitplan Mittwoch.pdf" target="_blank" rel="noopener noreferrer">detaillierter Zeitplan Mittwoch</a>
+#### <a href="/four-crown-classic/ergebnisse/" target="_blank" rel="noopener noreferrer">Start- und Ergebnislisten</a>
 
 ## Wichtige Informationen:
 
