@@ -8,29 +8,27 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 <details open>
   <summary>Mittwoch 30.9.2026</summary>
 
-<!-- | 1383 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/aqha12-1383.pdf" target="_blank" rel="noopener noreferrer">Green Trail Open</a> |   AQHA  | -->
 |  #       | Disziplin                       | Verband |
 |----------|---------------------------------|---------|
-| 1383 1/2 | Green Trail Open                |   AQHA  |
-| 3380 1/2 | Trail Novice Amateur            |   AQHA  |
-| 1382 1/2 | Senior Trail Open               |   AQHA  |
-| 1434 1/2 | Green Ranch Riding Open         |   AQHA  |
-| 3430 1/2 | Ranch Riding N.Amateur          |   AQHA  |
-| 4400 1/2 | Horsemanship Youth              |   AQHA  |
-| 3400 1/2 | Horsemanship Novice Amateur     |   AQHA  |
-| 1443 1/2 | Green Hunter Open               |   AQHA  |
-| 3440 1/2 | Hunter Under Saddle N.Amateur   |   AQHA  |
-| 1442 1/2 | Senior Hunter Under Saddle Open |   AQHA  |
-| 3520 1/2 | Hunt Seat Equitation N.Amateur  |   AQHA  |
-| 5007     | Hunter Non Pro                  |   NSBA  |
-| 1450 1/2 | Working Western Rail Open       |   AQHA  |
-| 1424 1/2 | Green Pleasure Open             |   AQHA  |
-| 3420 1/2 | Pleasure Novice Amateur         |   AQHA  |
-| 1422 1/2 | Senior Pleasure Open            |   AQHA  |
-| 1363 1/2 | Green Western Riding Open       |   AQHA  |
-| 1347 1/2 | Green Reining Open              |   AQHA  |
-| 3340 1/2 | Reining N.Amateur               |   AQHA  |
-| 1340 1/2 | Reining All Ages Open           |   AQHA  |
+| 1383 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1383_12.pdf" target="_blank" rel="noopener noreferrer">Green Trail Open</a> |   AQHA  |
+| 3380 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3380_12.pdf" target="_blank" rel="noopener noreferrer">Trail Novice Amateur</a> |   AQHA  |
+| 1382 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1382_12.pdf" target="_blank" rel="noopener noreferrer">Senior Trail Open</a> |   AQHA  |
+| 1434 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1434_12.pdf" target="_blank" rel="noopener noreferrer">Green Ranch Riding Open</a> |   AQHA  |
+| 3430 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3430_12.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding N.Amateur</a> |   AQHA  |
+| 4400 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/4400_12.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Youth</a> |   AQHA  |
+| 3400 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3400_12.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Novice Amateur</a> |   AQHA  |
+| 1443 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1443_12.pdf" target="_blank" rel="noopener noreferrer">Green Hunter Open</a> |   AQHA  |
+| 3440 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3440_12.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle N.Amateur</a> |   AQHA  |
+| 3520 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3520_12.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation N.Amateur</a> |   AQHA  |
+| 5007     | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/5007_12.pdf" target="_blank" rel="noopener noreferrer">Hunter Non Pro</a> |   NSBA  |
+| 1450 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1450_12.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Open</a> |   AQHA  |
+| 1424 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1424_12.pdf" target="_blank" rel="noopener noreferrer">Green Pleasure Open</a> |   AQHA  |
+| 3420 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3420_12.pdf" target="_blank" rel="noopener noreferrer">Pleasure Novice Amateur</a> |   AQHA  |
+| 1422 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1422_12.pdf" target="_blank" rel="noopener noreferrer">Senior Pleasure Open</a> |   AQHA  |
+| 1363 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1363_12.pdf" target="_blank" rel="noopener noreferrer">Green Western Riding Open</a> |   AQHA  |
+| 1347 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1347_12.pdf" target="_blank" rel="noopener noreferrer">Green Reining Open</a> |   AQHA  |
+| 3340 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3340_12.pdf" target="_blank" rel="noopener noreferrer">Reining N.Amateur</a> |   AQHA  |
+| 1340 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1340_12.pdf" target="_blank" rel="noopener noreferrer">Reining All Ages Open</a> |   AQHA  |
 
 </details>
 
@@ -46,7 +44,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 1384 1/2 | Trail In Hand Open              |   AQHA  |
 | 1430 1/2 | Ranch Riding Open               |   AQHA  |
 | 2430 1/2 | Ranch Riding Amateur            |   AQHA  |
-| 1441 1/2 | Junior Hunter Under Saddle Open |   AQHA  |
+| 1440 1/2 | Hunter Under Saddle aa Open     |   AQHA  |
 | 2440 1/2 | Hunter Under Saddle Amateur     |   AQHA  |
 | 4440 1/2 | Hunter Under Saddle Youth       |   AQHA  |
 | 2520 1/2 | Hunt Seat Equitation Amateur    |   AQHA  |
@@ -112,7 +110,6 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 6001     | Lebenshilfe Alfeld Trail Open   |   AQHA  |
 | 1443 3/4 | Green Hunter Open               |   AQHA  |
 | 3440 3/4 | Hunter Under Saddle N.Amateur   |   AQHA  |
-| 1442 3/4 | Senior Hunter Under Saddle Open |   AQHA  |
 | 3520 3/4 | Hunt Seat Equitation N.Amateur  |   AQHA  |
 | 1450 3/4 | Working Western Rail Open       |   AQHA  |
 | 4400 3/4 | Horsemanship Youth              |   AQHA  |
@@ -141,7 +138,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 2120 3/4 | Showmanship Amateur             |   AQHA  |
 | 2128 3/4 | Showmanship Select Amateur      |   AQHA  |
 | 1180 3/4 | Longe Line Open                 |   AQHA  |
-| 1441 3/4 | Junior Hunter Under Saddle Open |   AQHA  |
+| 1441 3/4 | Hunter Under Saddle aa Open     |   AQHA  |
 | 2440 3/4 | Hunter Under Saddle Amateur     |   AQHA  |
 | 4440 3/4 | Hunter Under Saddle Youth       |   AQHA  |
 | 5002     | Hunter Open                     |   NSBA  |

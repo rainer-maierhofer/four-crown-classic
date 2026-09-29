@@ -5,10 +5,12 @@ layout: page
 ---
 Willkommen auf der Startseite von Four Crown Classic.
 
+#### <a href="/four-crown-classic/downloads/ergebnisse/2026 Lamspringe Zeitplan Mittwoch.pdf" target="_blank" rel="noopener noreferrer">detaillierter Zeitplan Mittwoch</a>
+
 ## Wichtige Informationen:
 
 - <a href="/four-crown-classic/downloads/2026 Four Crown Classic Ausscheibung.pdf" target="_blank" rel="noopener noreferrer">Ausschreibung</a>
-- <a href="/four-crown-classic/downloads/2026 Four Crown Zeitplan.pdf" target="_blank" rel="noopener noreferrer">Zeitplan mit Starterzahlen</a>
+- <a href="/four-crown-classic/downloads/2026 Four Crown Zeitplan aktuell.pdf" target="_blank" rel="noopener noreferrer">aktueller Zeitplan mit Starterzahlen</a>
 - <a href="/four-crown-classic/downloads/2026 Four Crown Teilnehmerliste.pdf" target="_blank" rel="noopener noreferrer">Teilnehmerliste</a>
 - <a href="/four-crown-classic/downloads/2026 Four Crown Boxenplan.pdf" target="_blank" rel="noopener noreferrer">Boxenplan</a>
 - <a href="/four-crown-classic/downloads/2026 Four Crown Patternbook.pdf" target="_blank" rel="noopener noreferrer">Patternbook</a>
