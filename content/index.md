@@ -8,6 +8,8 @@ Willkommen auf der Startseite von Four Crown Classic.
 #### <a href="/four-crown-classic/downloads/ergebnisse/2026 Lamspringe Zeitplan Mittwoch.pdf" target="_blank" rel="noopener noreferrer">detaillierter Zeitplan Mittwoch</a>
 #### <a href="/four-crown-classic/ergebnisse/" target="_blank" rel="noopener noreferrer">Start- und Ergebnislisten</a>
 
+Die Meldestelle ist täglich von 7:30 bis 18:00 Uhr geöffnet. Nachnennungen sind bis 17:00 Uhr des Vortages möglich.
+
 ## Wichtige Informationen:
 
 - <a href="/four-crown-classic/downloads/2026 Four Crown Classic Ausscheibung.pdf" target="_blank" rel="noopener noreferrer">Ausschreibung</a>
