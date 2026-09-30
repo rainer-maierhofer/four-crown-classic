@@ -19,8 +19,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 3400 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3400_12.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Novice Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3400_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
 | 1443 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1443_12.pdf" target="_blank" rel="noopener noreferrer">Green Hunter Open</a> |   AQHA  |
 | 3440 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3440_12.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle N.Amateur</a> |   AQHA  |
-| 3520 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3520_12.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation N.Amateur</a> |   AQHA  |
-| 5007     | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/5007_12.pdf" target="_blank" rel="noopener noreferrer">Hunter Non Pro</a> |   NSBA  |
+| 3520 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3520_12.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation N.Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3520_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
 | 1450 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1450_12.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Open</a> |   AQHA  |
 | 1424 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1424_12.pdf" target="_blank" rel="noopener noreferrer">Green Pleasure Open</a> |   AQHA  |
 | 3420 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3420_12.pdf" target="_blank" rel="noopener noreferrer">Pleasure Novice Amateur</a> |   AQHA  |
