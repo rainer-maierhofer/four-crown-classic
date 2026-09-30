@@ -10,10 +10,10 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 
 |  #       | Disziplin                       | Verband |
 |----------|---------------------------------|---------|
-| 1383 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1383_12.pdf" target="_blank" rel="noopener noreferrer">Green Trail Open</a> |   AQHA  |
-| 3380 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3380_12.pdf" target="_blank" rel="noopener noreferrer">Trail Novice Amateur</a> |   AQHA  |
-| 1382 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1382_12.pdf" target="_blank" rel="noopener noreferrer">Senior Trail Open</a> |   AQHA  |
-| 1434 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1434_12.pdf" target="_blank" rel="noopener noreferrer">Green Ranch Riding Open</a> |   AQHA  |
+| 1383 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1383_12.pdf" target="_blank" rel="noopener noreferrer">Green Trail Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1383_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
+| 3380 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3380_12.pdf" target="_blank" rel="noopener noreferrer">Trail Novice Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3380_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
+| 1382 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1382_12.pdf" target="_blank" rel="noopener noreferrer">Senior Trail Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1382_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
+| 1434 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1434_12.pdf" target="_blank" rel="noopener noreferrer">Green Ranch Riding Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1434_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
 | 3430 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3430_12.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding N.Amateur</a> |   AQHA  |
 | 4400 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/4400_12.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Youth</a> |   AQHA  |
 | 3400 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3400_12.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Novice Amateur</a> |   AQHA  |
