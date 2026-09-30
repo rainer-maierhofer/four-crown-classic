@@ -49,6 +49,8 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 2520 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2520_12.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Amateur</a> |   AQHA  |
 | 4520 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/4520_12.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Youth</a> |   AQHA  |
 | 2450 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2450_12.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Amateur</a> |   AQHA  |
+|          | Mittagspause                              |      |
+| 1180 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/1180_12.pdf" target="_blank" rel="noopener noreferrer">Longe Line</a> |   AQHA  |
 | 2400 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2400_12.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Amateur</a> |   AQHA  |
 | 2408 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2408_12.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Select Amateur</a> |   AQHA  |
 | 5006     | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/5006.pdf" target="_blank" rel="noopener noreferrer">Pleasure Non Pro</a> |   NSBA  |
