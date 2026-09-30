@@ -24,10 +24,10 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 1424 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1424_12.pdf" target="_blank" rel="noopener noreferrer">Green Pleasure Open</a> |   AQHA  |
 | 3420 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3420_12.pdf" target="_blank" rel="noopener noreferrer">Pleasure Novice Amateur</a> |   AQHA  |
 | 1422 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1422_12.pdf" target="_blank" rel="noopener noreferrer">Senior Pleasure Open</a> |   AQHA  |
-| 1363 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1363_12.pdf" target="_blank" rel="noopener noreferrer">Green Western Riding Open</a> |   AQHA  |
-| 1347 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1347_12.pdf" target="_blank" rel="noopener noreferrer">Green Reining Open</a> |   AQHA  |
-| 3340 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3340_12.pdf" target="_blank" rel="noopener noreferrer">Reining N.Amateur</a> |   AQHA  |
-| 1340 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1340_12.pdf" target="_blank" rel="noopener noreferrer">Reining All Ages Open</a> |   AQHA  |
+| 1363 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1363_12.pdf" target="_blank" rel="noopener noreferrer">Green Western Riding Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1363_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
+| 1347 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1347_12.pdf" target="_blank" rel="noopener noreferrer">Green Reining Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1347_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
+| 3340 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3340_12.pdf" target="_blank" rel="noopener noreferrer">Reining N.Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/3340_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
+| 1340 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1340_12.pdf" target="_blank" rel="noopener noreferrer">Reining All Ages Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/mittwoch/1340_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
 
 </details>
 
