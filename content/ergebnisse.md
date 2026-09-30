@@ -36,31 +36,31 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 
 |  #       | Disziplin                       | Verband |
 |----------|---------------------------------|---------|
-| 2380 1/2 | Trail Amateur                   |   AQHA  |
-| 2388 1/2 | Trail Select Amateur            |   AQHA  |
-| 1381 1/2 | Junior Trail Open               |   AQHA  |
-| 4380 1/2 | Trail Youth                     |   AQHA  |
-| 1384 1/2 | Trail In Hand Open              |   AQHA  |
-| 1430 1/2 | Ranch Riding Open               |   AQHA  |
-| 2430 1/2 | Ranch Riding Amateur            |   AQHA  |
-| 1440 1/2 | Hunter Under Saddle aa Open     |   AQHA  |
-| 2440 1/2 | Hunter Under Saddle Amateur     |   AQHA  |
-| 4440 1/2 | Hunter Under Saddle Youth       |   AQHA  |
-| 2520 1/2 | Hunt Seat Equitation Amateur    |   AQHA  |
-| 4520 1/2 | Hunt Seat Equitation Youth      |   AQHA  |
-| 2450 1/2 | Working Western Rail Amateur    |   AQHA  |
-| 2400 1/2 | Horsemanship Amateur            |   AQHA  |
-| 2408 1/2 | Horsemanship Select Amateur     |   AQHA  |
-| 5006     | Pleasure Non Pro                |   NSBA  |
-| 2390 1/2 | Ranch Trail Amateur             |   AQHA  |
-| 1390 1/2 | Ranch Trail Open                |   AQHA  |
-| 1421 1/2 | Junior Pleasure Open            |   AQHA  |
-| 4420 1/2 | Pleasure Youth                  |   AQHA  |
-| 2420 1/2 | Pleasure Amateur                |   AQHA  |
-| 2428 1/2 | Pleasure Select Amateur         |   AQHA  |
-| 1360 1/2 | Western Riding Open             |   AQHA  |
-| 2360 1/2 | Western Riding Amateur          |   AQHA  |
-| 2340 1/2 | Reining Amateur                 |   AQHA  |
+| 2380 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2380_12.pdf" target="_blank" rel="noopener noreferrer">Trail Amateur</a> |   AQHA  |
+| 2388 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2388_12.pdf" target="_blank" rel="noopener noreferrer">Trail Select Amateur</a> |   AQHA  |
+| 1381 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/1381_12.pdf" target="_blank" rel="noopener noreferrer">Junior Trail Open</a> |   AQHA  |
+| 4380 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/4380_12.pdf" target="_blank" rel="noopener noreferrer">Trail Youth</a> |   AQHA  |
+| 1384 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/1384_12.pdf" target="_blank" rel="noopener noreferrer">Trail In Hand Open</a> |   AQHA  |
+| 1430 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/1430_12.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding Open</a> |   AQHA  |
+| 2430 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2430_12.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding Amateur</a> |   AQHA  |
+| 1440 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/1440_12.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle aa Open</a> |   AQHA  |
+| 2440 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2440_12.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Amateur</a> |   AQHA  |
+| 4440 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/4440_12.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Youth</a> |   AQHA  |
+| 2520 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2520_12.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Amateur</a> |   AQHA  |
+| 4520 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/4520_12.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Youth</a> |   AQHA  |
+| 2450 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2450_12.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Amateur</a> |   AQHA  |
+| 2400 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2400_12.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Amateur</a> |   AQHA  |
+| 2408 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2408_12.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Select Amateur</a> |   AQHA  |
+| 5006     | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/5006.pdf" target="_blank" rel="noopener noreferrer">Pleasure Non Pro</a> |   NSBA  |
+| 2390 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2390_12.pdf" target="_blank" rel="noopener noreferrer">Ranch Trail Amateur</a> |   AQHA  |
+| 1390 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/1390_12.pdf" target="_blank" rel="noopener noreferrer">Ranch Trail Open</a> |   AQHA  |
+| 1421 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/1421_12.pdf" target="_blank" rel="noopener noreferrer">Junior Pleasure Open</a> |   AQHA  |
+| 4420 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/4420_12.pdf" target="_blank" rel="noopener noreferrer">Pleasure Youth</a> |   AQHA  |
+| 2420 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2420_12.pdf" target="_blank" rel="noopener noreferrer">Pleasure Amateur</a> |   AQHA  |
+| 2428 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2428_12.pdf" target="_blank" rel="noopener noreferrer">Pleasure Select Amateur</a> |   AQHA  |
+| 1360 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/1360_12.pdf" target="_blank" rel="noopener noreferrer">Western Riding Open</a> |   AQHA  |
+| 2360 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2360_12.pdf" target="_blank" rel="noopener noreferrer">Western Riding Amateur</a> |   AQHA  |
+| 2340 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2340_12.pdf" target="_blank" rel="noopener noreferrer">Reining Amateur</a> |   AQHA  |
 
 </details>
 
