@@ -52,3 +52,7 @@ Kleberkamp 2
     <p>Cedric Leroux (B)</p>
   </div>
 </div>
+
+## Video
+Web Site https://ciblu-media.de/  
+<a href="https://ciblu-media.de/live/four-crown-classic-2026" target="_blank" rel="noopener noreferrer">Live-Stream</a>
