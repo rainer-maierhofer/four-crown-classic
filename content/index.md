@@ -24,6 +24,7 @@ Die Meldestelle ist täglich von 7:30 bis 18:00 Uhr geöffnet. Nachnennungen sin
 - <a href="/four-crown-classic/downloads/2026 Four Crown Trail.pdf" target="_blank" rel="noopener noreferrer">Trail Pattern</a>
 - <a href="/four-crown-classic/downloads/2026 Four Crown Ranch Trail.pdf" target="_blank" rel="noopener noreferrer">Ranch Trail Pattern</a>
 - <a href="https://ciblu-media.de/live/four-crown-classic-2026" target="_blank" rel="noopener noreferrer">Live-Stream</a>
+- <a href="https://ciblu-media.de/videos/four-crown-classic-2026" target="_blank" rel="noopener noreferrer">Video-Aufzeichnungen</a>
 
 ## Deutscher Meister
 

@@ -36,7 +36,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 
 |  #       | Disziplin                       | Verband |
 |----------|---------------------------------|---------|
-| 2380 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2380_12.pdf" target="_blank" rel="noopener noreferrer">Trail Amateur</a> |   AQHA  |
+| 2380 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2380_12.pdf" target="_blank" rel="noopener noreferrer">Trail Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2380_12_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
 | 2388 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/2388_12.pdf" target="_blank" rel="noopener noreferrer">Trail Select Amateur</a> |   AQHA  |
 | 1381 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/1381_12.pdf" target="_blank" rel="noopener noreferrer">Junior Trail Open</a> |   AQHA  |
 | 4380 1/2 | <a href="/four-crown-classic/downloads/ergebnisse/donnerstag/4380_12.pdf" target="_blank" rel="noopener noreferrer">Trail Youth</a> |   AQHA  |
