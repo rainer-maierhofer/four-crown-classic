@@ -30,6 +30,6 @@ Die Meldestelle ist täglich von 7:30 bis 18:00 Uhr geöffnet. Nachnennungen sin
 
 Der Titel Internationaler Deutscher Meister wird über die
 World-Show-Platzierungen aus den 4 AQHA-Shows errechnet.
-Der Titel wird in den Halterklassen ab 3 Teilnehmern und in den
-Performance Klassen ab 5 Teilnehmern vergeben.
+Der Titel wird in den Halter- und Jugendklassen ab 3 Teilnehmern vergeben. In den 
+Amateur und Open Performance Klassen gibt es ab 5 Teilnehmern einen Deutschen Meister Titel.
 Die 3 bzw. 5 Teilnehmer müssen in Show 1/2 gestartet sein.
