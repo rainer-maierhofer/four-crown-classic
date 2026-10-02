@@ -86,7 +86,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 
 </details>
 
-<details open>
+<details>
   <summary>Freitag 2.10.2026</summary>
 
 |  #       | Disziplin                       | Verband |
@@ -121,7 +121,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 
 </details>
 
-<details>
+<details open>
   <summary>Samstag 3.10.2026</summary>
 
 |  #       | Disziplin                       | Verband |
