@@ -17,11 +17,15 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 2770     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_2770.pdf" target="_blank" rel="noopener noreferrer">Performance Halter Geldings Amateur</a>  |
 | 1052     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_1052.pdf" target="_blank" rel="noopener noreferrer">Mares Three And Over Open</a>  |
 | 2052     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_2052.pdf" target="_blank" rel="noopener noreferrer">Mares Three And Over Amateur</a>  |
+| 1382     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_1382.pdf" target="_blank" rel="noopener noreferrer">Senior Trail Open</a>  |
+| 4380     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_4380.pdf" target="_blank" rel="noopener noreferrer">Trail Youth</a>  |
+| 1384     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_1384.pdf" target="_blank" rel="noopener noreferrer">Trail in Hand Open</a>  |
+| 1340     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_1340.pdf" target="_blank" rel="noopener noreferrer">Reining All Ages Open</a>  |
 
 
 </details>
 
-<details open>
+<details>
   <summary>Mittwoch 30.9.2026</summary>
 
 |  #       | Disziplin                       | Verband |
@@ -82,7 +86,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 
 </details>
 
-<details>
+<details open>
   <summary>Freitag 2.10.2026</summary>
 
 |  #       | Disziplin                       | Verband |
@@ -108,12 +112,12 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 5003     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/5003.pdf" target="_blank" rel="noopener noreferrer">Trail Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/freitag/5003_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   NSBA  |
 | 4380 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/4380_34.pdf" target="_blank" rel="noopener noreferrer">Trail Youth</a> - Tie: L. Long  - <a href="/four-crown-classic/downloads/ergebnisse/freitag/4380_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>| AQHA |
 | 1384 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/1384_34.pdf" target="_blank" rel="noopener noreferrer">Trail In Hand Open</a> - Tie: L. Long - <a href="/four-crown-classic/downloads/ergebnisse/freitag/1384_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>| AQHA |
-| 5005     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/5005.pdf" target="_blank" rel="noopener noreferrer">Trail in Hand Open</a>               |   NSBA  |
-| 3360 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/3360_34.pdf" target="_blank" rel="noopener noreferrer">Western Riding N. Amateur</a>        |   AQHA  |
-| 1363 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/1363_34.pdf" target="_blank" rel="noopener noreferrer">Green Western Riding Open</a>       |   AQHA  |
-| 1347 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/1347_34.pdf" target="_blank" rel="noopener noreferrer">Green Reining Open</a>               |   AQHA  |
-| 3340 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/3340_34.pdf" target="_blank" rel="noopener noreferrer">Reining N.Amateur</a>                |   AQHA  |
-| 1340 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/1340_34.pdf" target="_blank" rel="noopener noreferrer">Reining All Ages Open</a> - Tie: M. Fungo | AQHA |
+| 5005     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/5005.pdf" target="_blank" rel="noopener noreferrer">Trail in Hand Open</a>  - <a href="/four-crown-classic/downloads/ergebnisse/freitag/5005_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   NSBA  |
+| 3360 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/3360_34.pdf" target="_blank" rel="noopener noreferrer">Western Riding N. Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/freitag/3360_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
+| 1363 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/1363_34.pdf" target="_blank" rel="noopener noreferrer">Green Western Riding Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/freitag/1363_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
+| 1347 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/1347_34.pdf" target="_blank" rel="noopener noreferrer">Green Reining Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/freitag/1347_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
+| 3340 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/3340_34.pdf" target="_blank" rel="noopener noreferrer">Reining N.Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/freitag/3340_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
+| 1340 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/freitag/1340_34.pdf" target="_blank" rel="noopener noreferrer">Reining All Ages Open</a> - Tie: M. Fungo - <a href="/four-crown-classic/downloads/ergebnisse/freitag/1340_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>| AQHA |
 
 </details>
 
