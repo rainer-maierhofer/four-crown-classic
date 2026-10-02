@@ -6,6 +6,22 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 # Start- und Ergebnislisten
 
 <details open>
+  <summary>Int. Deutsche Meisterschaft</summary>
+
+|  #       | Disziplin                       |
+|----------|---------------------------------|
+| 1037     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_1037.pdf" target="_blank" rel="noopener noreferrer">Stallions Three And Over Open</a>  |
+| 1071     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_1071.pdf" target="_blank" rel="noopener noreferrer">Gelding Two And Under Open</a>  |
+| 1072     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_1072.pdf" target="_blank" rel="noopener noreferrer">Gelding Three And Over Open</a>  |
+| 2072     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_2072.pdf" target="_blank" rel="noopener noreferrer">Gelding Three And Over Amateur</a>  |
+| 2770     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_2770.pdf" target="_blank" rel="noopener noreferrer">Performance Halter Geldings Amateur</a>  |
+| 1052     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_1052.pdf" target="_blank" rel="noopener noreferrer">Mares Three And Over Open</a>  |
+| 2052     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_2052.pdf" target="_blank" rel="noopener noreferrer">Mares Three And Over Amateur</a>  |
+
+
+</details>
+
+<details open>
   <summary>Mittwoch 30.9.2026</summary>
 
 |  #       | Disziplin                       | Verband |
