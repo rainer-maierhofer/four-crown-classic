@@ -8,9 +8,6 @@ Willkommen auf der Startseite von Four Crown Classic.
 #### <a href="/four-crown-classic/downloads/ergebnisse/freitag/2026 Lamspringe Zeitplan Freitag.pdf" target="_blank" rel="noopener noreferrer">detaillierter Zeitplan Freitag</a>
 #### <a href="/four-crown-classic/ergebnisse/" target="_blank" rel="noopener noreferrer">Start- und Ergebnislisten</a>
 
-<span style="color: #d66a6a; font-weight: bold;">Achtung  
-Die Reihenfolge der Klassen am Freitag hat sich geändert.</span>
-
 Die Meldestelle ist täglich von 7:30 bis 18:00 Uhr geöffnet. Nachnennungen sind bis 17:00 Uhr des Vortages möglich.
 
 ## Wichtige Informationen:
