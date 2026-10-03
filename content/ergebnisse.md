@@ -21,7 +21,9 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 4380     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_4380.pdf" target="_blank" rel="noopener noreferrer">Trail Youth</a>  |
 | 1384     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_1384.pdf" target="_blank" rel="noopener noreferrer">Trail in Hand Open</a>  |
 | 1340     | <a href="/four-crown-classic/downloads/ergebnisse/freitag/DM_1340.pdf" target="_blank" rel="noopener noreferrer">Reining All Ages Open</a>  |
-
+| 2380     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_2380.pdf" target="_blank" rel="noopener noreferrer">Trail Amateur</a>  |
+| 2388     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_2388.pdf" target="_blank" rel="noopener noreferrer">Trail Amateur Select</a>  |
+| 1381     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_1381.pdf" target="_blank" rel="noopener noreferrer">Junior Trail</a>  |
 
 </details>
 
@@ -126,9 +128,9 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 
 |  #       | Disziplin                       | Verband |
 |----------|---------------------------------|---------|
-| <span style="background-color: #dfeeff;">2380 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/2380_34.pdf" target="_blank" rel="noopener noreferrer">Trail Amateur</a> - Tie: L. Long</span> | <span style="background-color: #dfeeff;">AQHA</span> |
-| <span style="background-color: #dfeeff;">2388 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/2388_34.pdf" target="_blank" rel="noopener noreferrer">Trail Select Amateur</a> - Tie: L. Long</span> | <span style="background-color: #dfeeff;">AQHA</span> |
-| <span style="background-color: #dfeeff;">1381 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/1381_34.pdf" target="_blank" rel="noopener noreferrer">Junior Trail Open</a> - Tie: L. Long</span> | <span style="background-color: #dfeeff;">AQHA</span> |
+| <span style="background-color: #dfeeff;">2380 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/2380_34.pdf" target="_blank" rel="noopener noreferrer">Trail Amateur</a> - Tie: L. Long  - <a href="/four-crown-classic/downloads/ergebnisse/samstag/2380_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a></span> | <span style="background-color: #dfeeff;">AQHA</span> |
+| <span style="background-color: #dfeeff;">2388 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/2388_34.pdf" target="_blank" rel="noopener noreferrer">Trail Select Amateur</a> - Tie: L. Long  - <a href="/four-crown-classic/downloads/ergebnisse/samstag/2388_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a></span> | <span style="background-color: #dfeeff;">AQHA</span> |
+| <span style="background-color: #dfeeff;">1381 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/1381_34.pdf" target="_blank" rel="noopener noreferrer">Junior Trail Open</a> - Tie: L. Long  - <a href="/four-crown-classic/downloads/ergebnisse/samstag/1381_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a></span> | <span style="background-color: #dfeeff;">AQHA</span> |
 | 6001     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/6001.pdf" target="_blank" rel="noopener noreferrer">Lebenshilfe Alfeld Trail Open</a> - Tie: L. Long |   AQHA  |
 | 1443 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1443_34.pdf" target="_blank" rel="noopener noreferrer">Green Hunter Open</a>               |   AQHA  |
 | 3440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/3440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle N.Amateur</a>   |   AQHA  |
