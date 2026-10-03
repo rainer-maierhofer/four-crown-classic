@@ -130,32 +130,30 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 
 |  #       | Disziplin                       | Verband |
 |----------|---------------------------------|---------|
-| <span style="background-color: #dfeeff;">2380 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/2380_34.pdf" target="_blank" rel="noopener noreferrer">Trail Amateur</a> - Tie: L. Long  - <a href="/four-crown-classic/downloads/ergebnisse/samstag/2380_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a></span> | <span style="background-color: #dfeeff;">AQHA</span> |
-| <span style="background-color: #dfeeff;">2388 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/2388_34.pdf" target="_blank" rel="noopener noreferrer">Trail Select Amateur</a> - Tie: L. Long  - <a href="/four-crown-classic/downloads/ergebnisse/samstag/2388_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a></span> | <span style="background-color: #dfeeff;">AQHA</span> |
-| <span style="background-color: #dfeeff;">1381 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/1381_34.pdf" target="_blank" rel="noopener noreferrer">Junior Trail Open</a> - Tie: L. Long  - <a href="/four-crown-classic/downloads/ergebnisse/samstag/1381_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a></span> | <span style="background-color: #dfeeff;">AQHA</span> |
+| 2380 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/2380_34.pdf" target="_blank" rel="noopener noreferrer">Trail Amateur</a> - Tie: L. Long  - <a href="/four-crown-classic/downloads/ergebnisse/samstag/2380_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> | AQHA |
+| 2388 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/2388_34.pdf" target="_blank" rel="noopener noreferrer">Trail Select Amateur</a> - Tie: L. Long  - <a href="/four-crown-classic/downloads/ergebnisse/samstag/2388_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> | AQHA |
+| 1381 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1381_34.pdf" target="_blank" rel="noopener noreferrer">Junior Trail Open</a> - Tie: L. Long  - <a href="/four-crown-classic/downloads/ergebnisse/samstag/1381_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> | AQHA |
 | 6001     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/6001.pdf" target="_blank" rel="noopener noreferrer">Lebenshilfe Alfeld Trail Open</a> - Tie: L. Long |   AQHA  |
 | 1443 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1443_34.pdf" target="_blank" rel="noopener noreferrer">Green Hunter Open</a>               |   AQHA  |
 | 3440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/3440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle N.Amateur</a>   |   AQHA  |
 | 3520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/3520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation N.Amateur</a>  |   AQHA  |
-| <span style="background-color: #dfeeff;">1450 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/1450_34.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Open</a> - Tie: C. Leroux</span>       | <span style="background-color: #dfeeff;">AQHA</span> |
+| 1450 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1450_34.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Open</a> - Tie: C. Leroux       | AQHA |
 | 1430 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1430_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding Open</a>               | AQHA    |
 | 2430 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/2430_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding Amateur</a>            | AQHA    |
 | 5004     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/5004.pdf" target="_blank" rel="noopener noreferrer">Longe Line Open</a>                 | NSBA    |
 |          | Mittagspause                              |      |
-| <span style="background-color: #dfeeff;">4400 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/4400_34.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Youth</a> - Tie: C. Leroux - <a href="/four-crown-classic/downloads/ergebnisse/samstag/4400_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a></span> | <span style="background-color: #dfeeff;">AQHA</span> |
+| 4400 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/4400_34.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Youth</a> - Tie: C. Leroux - <a href="/four-crown-classic/downloads/ergebnisse/samstag/4400_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> | AQHA |
 | 3400 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/3400_34.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Novice Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/samstag/3400_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
 | 2390 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/2390_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Trail Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/samstag/2390_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
 | 1390 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1390_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Trail Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/samstag/1390_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
 | 5001     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/5001.pdf" target="_blank" rel="noopener noreferrer">Pleasure Open</a>                   |   NSBA  |
 | 1360 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1360_34.pdf" target="_blank" rel="noopener noreferrer">Western Riding Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/samstag/1360_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a>|   AQHA  |
-| <span style="background-color: #dfeeff;">2360 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/2360_34.pdf" target="_blank" rel="noopener noreferrer">Western Riding Amateur</a> - Tie: M. Fungo - <a href="/four-crown-classic/downloads/ergebnisse/samstag/2360_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a></span> | <span style="background-color: #dfeeff;">AQHA</span> |
-| <span style="background-color: #dfeeff;">1421 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/1421_34.pdf" target="_blank" rel="noopener noreferrer">Junior Pleasure Open</a> - Tie: M. Fungo</span> | <span style="background-color: #dfeeff;">AQHA</span> |
-| <span style="background-color: #dfeeff;">4420 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/4420_34.pdf" target="_blank" rel="noopener noreferrer">Pleasure Youth</a> - Tie: C. Leroux</span> | <span style="background-color: #dfeeff;">AQHA</span> |
-| <span style="background-color: #dfeeff;">2420 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/2420_34.pdf" target="_blank" rel="noopener noreferrer">Pleasure Amateur</a> - Tie: K. Kope</span> | <span style="background-color: #dfeeff;">AQHA</span> |
-| <span style="background-color: #dfeeff;">2428 3/4</span> | <span style="background-color: #dfeeff;"><a href="/four-crown-classic/downloads/ergebnisse/samstag/2428_34.pdf" target="_blank" rel="noopener noreferrer">Pleasure Select Amateur</a> - Tie: K. Kope</span> | <span style="background-color: #dfeeff;">AQHA</span> |
+| 2360 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/2360_34.pdf" target="_blank" rel="noopener noreferrer">Western Riding Amateur</a> - Tie: M. Fungo - <a href="/four-crown-classic/downloads/ergebnisse/samstag/2360_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> | AQHA |
+| 1421 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1421_34.pdf" target="_blank" rel="noopener noreferrer">Junior Pleasure Open</a> - Tie: M. Fungo | AQHA |
+| 4420 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/4420_34.pdf" target="_blank" rel="noopener noreferrer">Pleasure Youth</a> - Tie: C. Leroux | AQHA |
+| 2420 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/2420_34.pdf" target="_blank" rel="noopener noreferrer">Pleasure Amateur</a> - Tie: K. Kope | AQHA |
+| 2428 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/2428_34.pdf" target="_blank" rel="noopener noreferrer">Pleasure Select Amateur</a> - Tie: K. Kope | AQHA |
   
-In den hellblau markierten Klassen wird ein Int. Deutscher Meister geehrt.
-
 </details>
 
 <details>
@@ -163,25 +161,25 @@ In den hellblau markierten Klassen wird ein Int. Deutscher Meister geehrt.
 
 |  #       | Disziplin                       | Verband |
 |----------|---------------------------------|---------|
-| 3120 3/4 | Showmanship Novice Amateur      |   AQHA  |
-| 4120 3/4 | Showmanship Youth               |   AQHA  |
-| 2120 3/4 | Showmanship Amateur             |   AQHA  |
-| 2128 3/4 | Showmanship Select Amateur      |   AQHA  |
-| 1180 3/4 | Longe Line Open                 |   AQHA  |
-| 1441 3/4 | Hunter Under Saddle aa Open     |   AQHA  |
-| 2440 3/4 | Hunter Under Saddle Amateur     |   AQHA  |
-| 4440 3/4 | Hunter Under Saddle Youth       |   AQHA  |
-| 5002     | Hunter Open                     |   NSBA  |
-| 2520 3/4 | Hunt Seat Equitation Amateur    |   AQHA  |
-| 4520 3/4 | Hunt Seat Equitation Youth      |   AQHA  |
-| 1434 3/4 | Green Ranch Riding Open         |   AQHA  |
-| 3430 3/4 | Ranch Riding N.Amateur          |   AQHA  |
-| 1424 3/4 | Green Pleasure Open             |   AQHA  |
-| 3420 3/4 | Pleasure Novice Amateur         |   AQHA  |
-| 1422 3/4 | Senior Pleasure Open            |   AQHA  |
-| 2450 3/4 | Working Western Rail Amateur    |   AQHA  |
-| 2400 3/4 | Horsemanship Amateur            |   AQHA  |
-| 2408 3/4 | Horsemanship Select Amateur     |   AQHA  |
-| 2340 3/4 | Reining Amateur                 |   AQHA  |
+| 3120 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/3120_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Novice Amateur</a> |   AQHA  |
+| 4120 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4120_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Youth - Tie: C. Leroux</a> |   AQHA  |
+| 2120 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2120_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Amateur - Tie: C. Leroux</a> |   AQHA  |
+| 2128 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2128_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Select Amateur</a> |   AQHA  |
+| 1180 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1180_34.pdf" target="_blank" rel="noopener noreferrer">Longe Line Open - Tie: C. Leroux</a> |   AQHA  |
+| 1441 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1441_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle aa Open - Tie: L. Long</a> |   AQHA  |
+| 2440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Amateur - Tie: L. Long</a> |   AQHA  |
+| 4440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Youth - Tie: L. Long</a> |   AQHA  |
+| 5002     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/5002_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Open</a> |   NSBA  |
+| 2520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Amateur - Tie: K. Kope</a> |   AQHA  |
+| 4520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Youth - Tie: K. Kope</a> |   AQHA  |
+| 1434 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1434_34.pdf" target="_blank" rel="noopener noreferrer">Green Ranch Riding Open</a> |   AQHA  |
+| 3430 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/3430_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding N.Amateur</a> |   AQHA  |
+| 1424 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1424_34.pdf" target="_blank" rel="noopener noreferrer">Green Pleasure Open</a> |   AQHA  |
+| 3420 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/3420_34.pdf" target="_blank" rel="noopener noreferrer">Pleasure Novice Amateur</a> |   AQHA  |
+| 1422 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1422_34.pdf" target="_blank" rel="noopener noreferrer">Senior Pleasure Open - Tie: K. Kope</a> |   AQHA  |
+| 2450 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2450_34.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Amateur</a> |   AQHA  |
+| 2400 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2400_34.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Amateur - Tie: M. Fungo</a> |   AQHA  |
+| 2408 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2408_34.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Select Amateur - Tie: M. Fungo</a> |   AQHA  |
+| 2340 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2340_34.pdf" target="_blank" rel="noopener noreferrer">Reining Amateur</a> |   AQHA  |
 
 </details>
