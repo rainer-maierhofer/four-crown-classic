@@ -136,10 +136,10 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 6001     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/6001.pdf" target="_blank" rel="noopener noreferrer">Lebenshilfe Alfeld Trail Open</a> - Tie: L. Long |   AQHA  |
 | 1443 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1443_34.pdf" target="_blank" rel="noopener noreferrer">Green Hunter Open</a>               |   AQHA  |
 | 3440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/3440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle N.Amateur</a>   |   AQHA  |
-| 3520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/3520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation N.Amateur</a>  |   AQHA  |
+| 3520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/3520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation N.Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/samstag/3520_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
 | 1450 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1450_34.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Open</a> - Tie: C. Leroux       | AQHA |
-| 1430 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1430_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding Open</a>               | AQHA    |
-| 2430 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/2430_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding Amateur</a>            | AQHA    |
+| 1430 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/1430_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/samstag/1430_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> | AQHA    |
+| 2430 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/2430_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/samstag/2430_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> | AQHA    |
 | 5004     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/5004.pdf" target="_blank" rel="noopener noreferrer">Longe Line Open</a>                 | NSBA    |
 |          | Mittagspause                              |      |
 | 4400 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/samstag/4400_34.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Youth</a> - Tie: C. Leroux - <a href="/four-crown-classic/downloads/ergebnisse/samstag/4400_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> | AQHA |
