@@ -26,6 +26,11 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 1381     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_1381.pdf" target="_blank" rel="noopener noreferrer">Junior Trail</a>  |
 | 1450     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_1450.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Open</a>  |
 | 4400     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_4400.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Youth</a>  |
+| 2360     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_2360.pdf" target="_blank" rel="noopener noreferrer">Western Riding Amateur</a>  |
+| 1421     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_1421.pdf" target="_blank" rel="noopener noreferrer">Junior Pleasure Open</a>  |
+| 4420     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_4420.pdf" target="_blank" rel="noopener noreferrer">Pleasure Youth</a>  |
+| 2420     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_2420.pdf" target="_blank" rel="noopener noreferrer">Pleasure Amateur</a>  |
+| 2428     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_2428.pdf" target="_blank" rel="noopener noreferrer">Pleasure Amateur Select</a>  |
 
 </details>
 
