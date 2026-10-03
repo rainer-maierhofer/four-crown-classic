@@ -166,10 +166,10 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 2120 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2120_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Amateur - Tie: C. Leroux</a> |   AQHA  |
 | 2128 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2128_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Select Amateur</a> |   AQHA  |
 | 1180 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1180_34.pdf" target="_blank" rel="noopener noreferrer">Longe Line Open - Tie: C. Leroux</a> |   AQHA  |
-| 1441 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1441_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle aa Open - Tie: L. Long</a> |   AQHA  |
+| 1440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle aa Open - Tie: L. Long</a> |   AQHA  |
 | 2440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Amateur - Tie: L. Long</a> |   AQHA  |
 | 4440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Youth - Tie: L. Long</a> |   AQHA  |
-| 5002     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/5002_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Open</a> |   NSBA  |
+| 5002     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/5002.pdf" target="_blank" rel="noopener noreferrer">Hunter Open</a> |   NSBA  |
 | 2520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Amateur - Tie: K. Kope</a> |   AQHA  |
 | 4520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Youth - Tie: K. Kope</a> |   AQHA  |
 | 1434 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1434_34.pdf" target="_blank" rel="noopener noreferrer">Green Ranch Riding Open</a> |   AQHA  |
