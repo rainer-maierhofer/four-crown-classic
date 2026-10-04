@@ -40,6 +40,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 2520     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_2520.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Amateur</a>  |
 | 4520     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_4520.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Youth</a>  |
 | 1422     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_1422.pdf" target="_blank" rel="noopener noreferrer">Senior Pleasure Open</a>  |
+| 2400     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_2400.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Amateur</a>  |
 
 </details>
 
