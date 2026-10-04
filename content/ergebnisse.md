@@ -179,16 +179,16 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 2440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Amateur - Tie: L. Long</a> |   AQHA  |
 | 4440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Youth - Tie: L. Long</a> |   AQHA  |
 | 5002     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/5002.pdf" target="_blank" rel="noopener noreferrer">Hunter Open</a> |   NSBA  |
-| 2520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Amateur - Tie: K. Kope</a> |   AQHA  |
-| 4520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Youth - Tie: K. Kope</a> |   AQHA  |
-| 1434 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1434_34.pdf" target="_blank" rel="noopener noreferrer">Green Ranch Riding Open</a> |   AQHA  |
-| 3430 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/3430_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding N.Amateur</a> |   AQHA  |
+| 2520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Amateur - Tie: K. Kope</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2520_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
+| 4520 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4520_34.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Youth - Tie: K. Kope</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4520_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
+| 1434 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1434_34.pdf" target="_blank" rel="noopener noreferrer">Green Ranch Riding Open</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1434_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
+| 3430 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/3430_34.pdf" target="_blank" rel="noopener noreferrer">Ranch Riding N.Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/3430_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
 | 1424 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1424_34.pdf" target="_blank" rel="noopener noreferrer">Green Pleasure Open</a> |   AQHA  |
 | 3420 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/3420_34.pdf" target="_blank" rel="noopener noreferrer">Pleasure Novice Amateur</a> |   AQHA  |
 | 1422 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1422_34.pdf" target="_blank" rel="noopener noreferrer">Senior Pleasure Open - Tie: K. Kope</a> |   AQHA  |
-| 2450 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2450_34.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Amateur</a> |   AQHA  |
-| 2400 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2400_34.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Amateur - Tie: M. Fungo</a> |   AQHA  |
-| 2408 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2408_34.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Select Amateur - Tie: M. Fungo</a> |   AQHA  |
-| 2340 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2340_34.pdf" target="_blank" rel="noopener noreferrer">Reining Amateur</a> |   AQHA  |
+| 2450 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2450_34.pdf" target="_blank" rel="noopener noreferrer">Working Western Rail Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2450_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
+| 2400 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2400_34.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Amateur - Tie: M. Fungo</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2400_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
+| 2408 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2408_34.pdf" target="_blank" rel="noopener noreferrer">Horsemanship Select Amateur - Tie: M. Fungo</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2408_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
+| 2340 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2340_34.pdf" target="_blank" rel="noopener noreferrer">Reining Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2340_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
 
 </details>
