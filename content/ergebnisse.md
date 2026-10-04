@@ -31,10 +31,10 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 4420     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_4420.pdf" target="_blank" rel="noopener noreferrer">Pleasure Youth</a>  |
 | 2420     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_2420.pdf" target="_blank" rel="noopener noreferrer">Pleasure Amateur</a>  |
 | 2428     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_2428.pdf" target="_blank" rel="noopener noreferrer">Pleasure Amateur Select</a>  |
-| 4120     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_4120.pdf" target="_blank" rel="noopener noreferrer">Showmanship Youth</a>  |
-| 2120     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_2120.pdf" target="_blank" rel="noopener noreferrer">Showmanship Amateur</a>  |
-| 1180     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_1180.pdf" target="_blank" rel="noopener noreferrer">Longe Line Open</a>  |
-| 1440     | <a href="/four-crown-classic/downloads/ergebnisse/samstag/DM_1440.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Open</a>  |
+| 4120     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_4120.pdf" target="_blank" rel="noopener noreferrer">Showmanship Youth</a>  |
+| 2120     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_2120.pdf" target="_blank" rel="noopener noreferrer">Showmanship Amateur</a>  |
+| 1180     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_1180.pdf" target="_blank" rel="noopener noreferrer">Longe Line Open</a>  |
+| 1440     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_1440.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Open</a>  |
 
 </details>
 
