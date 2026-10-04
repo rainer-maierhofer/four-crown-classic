@@ -130,7 +130,7 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 
 </details>
 
-<details open>
+<details>
   <summary>Samstag 3.10.2026</summary>
 
 |  #       | Disziplin                       | Verband |
@@ -161,16 +161,16 @@ description: Ergebnisse und Startlisten der Four Crown Classic
   
 </details>
 
-<details>
+<details open>
   <summary>Sonntag 4.10.2026</summary>
 
 |  #       | Disziplin                       | Verband |
 |----------|---------------------------------|---------|
-| 3120 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/3120_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Novice Amateur</a> |   AQHA  |
-| 4120 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4120_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Youth - Tie: C. Leroux</a> |   AQHA  |
-| 2120 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2120_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Amateur - Tie: C. Leroux</a> |   AQHA  |
-| 2128 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2128_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Select Amateur</a> |   AQHA  |
-| 1180 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1180_34.pdf" target="_blank" rel="noopener noreferrer">Longe Line Open - Tie: C. Leroux</a> |   AQHA  |
+| 3120 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/3120_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Novice Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/3120_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
+| 4120 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4120_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Youth - Tie: C. Leroux</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4120_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
+| 2120 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2120_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Amateur - Tie: C. Leroux</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2120_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
+| 2128 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2128_34.pdf" target="_blank" rel="noopener noreferrer">Showmanship Select Amateur</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2128_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
+| 1180 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1180_34.pdf" target="_blank" rel="noopener noreferrer">Longe Line Open - Tie: C. Leroux</a> - <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1180_34_S.pdf" target="_blank" rel="noopener noreferrer">Scoresheet</a> |   AQHA  |
 | 1440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/1440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle aa Open - Tie: L. Long</a> |   AQHA  |
 | 2440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/2440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Amateur - Tie: L. Long</a> |   AQHA  |
 | 4440 3/4 | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/4440_34.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Youth - Tie: L. Long</a> |   AQHA  |
