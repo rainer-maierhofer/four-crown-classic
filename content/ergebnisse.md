@@ -35,6 +35,10 @@ description: Ergebnisse und Startlisten der Four Crown Classic
 | 2120     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_2120.pdf" target="_blank" rel="noopener noreferrer">Showmanship Amateur</a>  |
 | 1180     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_1180.pdf" target="_blank" rel="noopener noreferrer">Longe Line Open</a>  |
 | 1440     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_1440.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Open</a>  |
+| 2440     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_2440.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Amateur</a>  |
+| 4440     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_4440.pdf" target="_blank" rel="noopener noreferrer">Hunter Under Saddle Youth</a>  |
+| 2520     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_2520.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Amateur</a>  |
+| 4520     | <a href="/four-crown-classic/downloads/ergebnisse/sonntag/DM_4520.pdf" target="_blank" rel="noopener noreferrer">Hunt Seat Equitation Youth</a>  |
 
 </details>
 
